@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+# https://github.com/sp0f/s3BucketInventoryTool
+
 import boto3
 import botocore
 import pprint
